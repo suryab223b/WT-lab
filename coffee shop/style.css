@@ -1,0 +1,153 @@
+body{
+    
+    background-color :#E26A6A;
+    
+}
+
+.cerceve{
+    position :relative;
+    height: 700px;
+    width: 400px;
+    border-style: none;
+    
+    background-color: #ECECEC;
+    margin: auto ;
+    
+   
+}
+
+.cerceve p span{
+      
+    position: absolute;
+    left:40%;
+    top: 25px;
+    width:100%;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.875rem;
+    font-weight: bold;        
+    color:#2574A9;
+}
+
+#kahve{
+    position: absolute;
+    left: 32%;
+    top : 15%;
+    
+}
+
+#arama{
+    position:absolute;
+    left:90%;
+    top: 25px
+}
+
+#liste{
+    position:absolute;
+    left:5%;
+    top:25px;
+}
+.menu{
+    
+    
+    height:350px;
+    width: 400px;
+    background-color: #DADFE1;
+    margin: 0 auto;
+    position: absolute;
+    bottom:0px;
+    border-style: none;
+   
+    
+    
+}
+
+.menu p {
+    position: absolute;
+    left:35%;
+    top: -65px;
+    width:100%;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.875rem;
+    font-weight:bold;        
+    color:#2574A9;
+    
+    
+}
+
+
+
+.menu ul {
+    
+    list-style:none;
+    position: absolute;
+    left: 5%;
+    top:30px;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.075rem;
+    font-weight:bold;        
+    color:#95a5a6;
+    
+    
+    
+}
+
+.menu ul li{
+    
+    list-style:none;
+    position: relative;
+    margin-left: 10px auto;
+    top:10px;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.275rem;
+    font-weight:bold;        
+    color:#2c3e50;
+    line-height: 50px;
+    
+    
+}
+
+.menu ol {
+    
+    list-style:none;
+    position: absolute;
+    right: 15%;
+    top:30px;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.075rem;
+    font-weight:bold;        
+    color:#95a5a6;
+    
+    
+    
+    
+}
+
+.menu ol li{
+    
+    list-style:none;
+    position: relative;
+    margin-right: 100px auto;
+    top:10px;
+    font-family:  'Abel', sans-serif;
+    font-size: 1.275rem;
+    font-weight:bold;        
+    color:#2c3e50;
+    line-height: 50px;
+    
+    
+    
+}
+
+.fiyat{
+    
+    height:320px;
+    width: 320px;
+    background-color: #ECECEC;
+    margin-left: 10px auto;
+    position: absolute;
+    bottom:0px;
+    left:40px;
+    border-style: none;
+   
+    
+}
